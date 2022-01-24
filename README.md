@@ -1,4 +1,5 @@
-I have cloned this blank prject from https://github.com/londonappbrewery/xylophone-flutter and then Rewrote the whole code and installed the required dependencies.
+I have cloned this blank project from https://github.com/londonappbrewery/xylophone-flutter and then Recoded the whole app and installed the required dependencies while learning along the module.
+<br>
 <br>
 The commit mentioned as Final app contains all these changes performed by me.
 <br>
